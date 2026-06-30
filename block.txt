@@ -1,1 +1,1 @@
-8.8.8.8 google.com
+0.0.0.0 google.com
